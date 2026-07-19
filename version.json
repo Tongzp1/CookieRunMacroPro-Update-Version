@@ -1,6 +1,6 @@
 {
-  "version": "1.4.3",
-  "download_url": "https://github.com/Tongzp1/CookieRunMacroPro-Update-Version/releases/download/v1.4.3/CookieRunMacroPro.zip",
-  "changelog": "- แก้บัค กดรับของ ของฟังก์ชั่น วิ่ง AFK และ ระบบสแกนจอ",
+  "version": "1.4.4",
+  "download_url": "https://github.com/Tongzp1/CookieRunMacroPro-Update-Version/releases/download/v1.4.4/CookieRunMacroPro.zip",
+  "changelog": "- เพิ่มระบบ Multi boost เลือกboostที่ต้องการ #ต้องติ๊กเองในเกมก่อน และค่อยเลือกในตัวโปรแกรม",
   "required": false
 }
