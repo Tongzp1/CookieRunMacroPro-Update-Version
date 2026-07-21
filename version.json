@@ -1,6 +1,6 @@
 {
-  "version": "1.4.4",
-  "download_url": "https://github.com/Tongzp1/CookieRunMacroPro-Update-Version/releases/download/v1.4.4/CookieRunMacroPro.zip",
-  "changelog": "- เพิ่มระบบ Multi boost เลือกboostที่ต้องการ #ต้องติ๊กเองในเกมก่อน และค่อยเลือกในตัวโปรแกรม",
+  "version": "1.4.5",
+  "download_url": "https://github.com/Tongzp1/CookieRunMacroPro-Update-Version/releases/download/v1.4.5/CookieRunMacroPro.zip",
+  "changelog": "- เพิ่มระบบ เปิดRelic / เพิ่มสามารถแก้ไขดีเลย์การกดบูสและผลัด2 / สามารถย่อ-ขยายหน้าต่างโปรแกรมได้อิสระ / อัพเดทระบบHWIDใหม่ #รบกวนอ่าน ใครทีอัพเดทแล้ว Key ไม่ถูกต้อง ให้ติดต่อเครมKeyกับแอดมิน ",
   "required": false
 }
