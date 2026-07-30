@@ -1,6 +1,6 @@
 {
-  "version": "1.4.9",
+  "version": "1.5.0",
   "download_url": "https://github.com/Tongzp1/CookieRunMacroPro-Update-Version/releases/download/v1.4.9/CookieRunMacroPro.zip",
-  "changelog": "- 🔥 โปรดอ่าน 🔥 อัพเดทกระโดดดีขึ้น อัพเดทระหว่างพักสามารถส่งหัวใจและรับหัวใจได้ และ เพิ่มสแกนจอเป็นชื่อที่เราตั้ง เฉพาะMuMu ",
+  "changelog": "- 🔥 โปรดอ่าน 🔥 แก้ฟังก์ชั่นระหว่างพักให้ใช้งานได้แล้ว ส่งหัวใจ รับหัวใจ ",
   "required": false
 }
