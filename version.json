@@ -1,6 +1,6 @@
 {
-  "version": "1.5.2",
-  "download_url": "https://github.com/Tongzp1/CookieRunMacroPro-Update-Version/releases/download/v1.5.2/CookieRunMacroPro.zip",
-  "changelog": "- 🔥 โปรดอ่าน 🔥 เพิ่มฟังก์ชั่นนับเหรียญรวม / กล่องที่ได้ไว้ในหน้้า Screen Controlของแต่ละจอ และเพิ่มระบบกรอกเลขPort ADBในกรณีสแกนหาจอแล้วไม่เจอ   ",
+  "version": "1.5.3",
+  "download_url": "https://github.com/Tongzp1/CookieRunMacroPro-Update-Version/releases/download/v1.5.3/CookieRunMacroPro.zip",
+  "changelog": "- 🔥 โปรดอ่าน 🔥 เพิ่มระบบ Webhook แจ้งเตือนผ่าน Discord ว่าได้เหรียญและกล่องเท่าไหร่ สามารถกำหนดเวลาได้ว่าจะให้แจ้งเตือนทุกกี่ชม.  ",
   "required": false
 }
